@@ -1,0 +1,6 @@
+node package.json install
+npm init
+
+package install 
+npm i express mysql ejs body-parser nodemon
+package-lock.json create 
